@@ -1,4 +1,4 @@
-# 😊 **Emotion-Based Text Style Transfer System**
+# 😊 **Emotion-Based Text Style Transfer**
 
 ## 👩‍💻 **Authors**
 - **P.Mounika(Y22ACS540)**
