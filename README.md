@@ -4,7 +4,7 @@
 - **P.Mounika(Y22ACS540)**
 - **P.Divya(L23ACS611)**
 - **N.Venkata Manideep(Y22ACS515)**
-- **M.Manikanta(Y22acs508)**
+- **M.Manikanta(Y22ACS508)**
 
 ---
 
